@@ -1,13 +1,7 @@
 # FPGA-Asteroid-Escape-game-
 A real-time arcade-style game implemented in Verilog for FPGA platforms featuring VGA output and 7-segment display integration.
-## Features
-- Collects S&P 500 data using `yfinance`
-- Feature engineering with rolling averages and trends
-- Random Forest classifier for prediction
-- Backtesting with walk-forward validation
-- Function to predict tomorrow’s market direction
 
-Features:
+## Features
 Real-time gameplay with VGA video output (1440x900 resolution), 
 Ship navigation system with collision detection and boundary constraints, 
 Dynamic asteroid field with 8 moving obstacles, 
@@ -18,7 +12,7 @@ Exit zone mechanics - reach the top of the screen to win,
 Animated graphics with 2-second animation clock, 
 Button-controlled movement (4-directional navigation + action button).
 
-Technical Implementation:
+##Technical Implementation:
 Written in Verilog HDL with modular design architecture, 
 Clock domain management with pixel clock and game logic clocks, 
 Custom VGA controller for display output, 
