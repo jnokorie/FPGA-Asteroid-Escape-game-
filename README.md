@@ -2,6 +2,7 @@
 A real-time arcade-style game implemented in Verilog for FPGA platforms featuring VGA output and 7-segment display integration.
 
 ## Features
+-Real-time gameplay with VGA video output (1440x900 resolution), 
 Real-time gameplay with VGA video output (1440x900 resolution), 
 Ship navigation system with collision detection and boundary constraints, 
 Dynamic asteroid field with 8 moving obstacles, 
